@@ -1,0 +1,18 @@
+{
+  "type": "modpack:lightning_infusion",
+  "weather": "clear",
+  "ingredients": [
+    {
+      "item": "minecraft:experience_bottle"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "modpack:earth_crystal"
+    }
+  ],
+  "output": {
+    "item": "modpack:repair_shard"
+  }
+}

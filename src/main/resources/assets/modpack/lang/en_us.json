@@ -1,0 +1,43 @@
+{
+  "____comment": "Items",
+  "item.modpack.dragon_black_scale_piece": "Dragon Black Scale Piece",
+  "item.modpack.twilight_cain": "Twilight Cain",
+  "item.modpack.twilight_cain_blade": "Twilight Cain's Blade",
+  "item.modpack.twilight_cain_handle": "Twilight Cain's Handle",
+  "item.modpack.wither_eye_part_one": "Wither Eye Fragment",
+  "item.modpack.wither_eye_part_two": "Wither Eye Fragment",
+  "item.modpack.magical_eye_part_one": "Magical Eye Fragment",
+  "item.modpack.magical_eye_part_two": "Magical Eye Fragment",
+  "item.modpack.guardian_eye_part_one": "Guardian Eye Fragment",
+  "item.modpack.guardian_eye_part_two": "Guardian Eye Fragment",
+  "item.modpack.repair_shard": "Repair Shard",
+  "item.modpack.orb_of_temporary_flight": "Orb Of Temporary Flight",
+  "item.modpack.fire_crystal": "Fire Crystal",
+  "item.modpack.water_crystal": "Water Crystal",
+  "item.modpack.wind_crystal": "Wind Crystal",
+  "item.modpack.earth_crystal": "Earth Crystal",
+
+  "__comment": "Blocks",
+  "block.modpack.fire_ore": "Fire Ore",
+  "block.modpack.water_ore": "Water Ore",
+  "block.modpack.wind_ore": "Wind Ore",
+  "block.modpack.earth_ore": "Earth Ore",
+  "block.modpack.lightning_infusioner": "Lightning Infusioner",
+
+  "__comment": "Screens",
+  "screen.modpack.lightning_infusioner": "Lightning Infusioner",
+
+  "__comment": "Effects",
+  "effect.modpack.fly": "Fly",
+
+
+  "_comment": "ModPack Groups",
+  "itemGroup.modpack_itemsTab": "ModPack Items",
+  "itemGroup.modpack_toolsTab": "ModPack Tools",
+  "itemGroup.modpack_blocksTab": "ModPack Blocks",
+  "itemGroup.modpack_crystalsTab": "ModPack Crystals",
+
+  "__comment": "Tooltips",
+  "tooltip.modpack.orb_of_temporary_flight": "Hold \u00A7eSHIFT\u00A7r for more information",
+  "tooltip.modpack.orb_of_temporary_flight_shift": "Provides the player with flight for 2 minutes"
+}

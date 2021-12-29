@@ -1,0 +1,18 @@
+{
+  "type": "modpack:lightning_infusion",
+  "weather": "rain",
+  "ingredients": [
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "modpack:water_crystal"
+    },
+    {
+      "item": "modpack:wind_crystal"
+    }
+  ],
+  "output": {
+    "item": "minecraft:experience_bottle"
+  }
+}

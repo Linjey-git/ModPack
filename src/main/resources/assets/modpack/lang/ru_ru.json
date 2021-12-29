@@ -1,0 +1,42 @@
+{
+  "____comment": "Предметы",
+  "item.modpack.dragon_black_scale_piece": "Кусок Чёрной Драконьей Чешуи",
+  "item.modpack.twilight_cain": "Сумеречный Каин",
+  "item.modpack.twilight_cain_blade": "Лезвие Сумеречного Каина",
+  "item.modpack.twilight_cain_handle": "Рукоять Сумеречного Каина",
+  "item.modpack.wither_eye_part_one": "Фрагмент Иссушающего Глаза",
+  "item.modpack.wither_eye_part_two": "Фрагмент Иссушающего Глаза",
+  "item.modpack.magical_eye_part_one": "Фрагмент Иссушающего Глаза",
+  "item.modpack.magical_eye_part_two": "Фрагмент Иссушающего Глаза",
+  "item.modpack.guardian_eye_part_one": "Фрагмент Глаза Стража",
+  "item.modpack.guardian_eye_part_two": "Фрагмент Глаза Стража",
+  "item.modpack.repair_shard": "Осколок Починки",
+  "item.modpack.orb_of_temporary_flight": "Сфера Временного Полёта",
+  "item.modpack.fire_crystal": "Кристал Огня",
+  "item.modpack.water_crystal": "Кристал Воды",
+  "item.modpack.wind_crystal": "Кристал Ветра",
+  "item.modpack.earth_crystal": "Кристал Земли",
+
+  "__comment": "Блоки",
+  "block.modpack.fire_ore": "Руда Огня",
+  "item.modpack.water_ore": "Руда Воды",
+  "block.modpack.wind_ore": "Руда Ветра",
+  "block.modpack.earth_ore": "Руда Земли",
+  "block.modpack.lightning_infusioner": "Громовой Наполнитель",
+
+  "__comment": "Screens",
+  "screen.modpack.lightning_infusioner": "Громовой Наполнитель",
+
+  "__comment": "Эффекты",
+  "effect.modpack.fly": "Полёт",
+
+  "_comment": "ModPack Группы",
+  "itemGroup.modpack_itemsTab": "ModPack Вещи",
+  "itemGroup.modpack_toolsTab": "ModPack Инструменты",
+  "itemGroup.modpack_blocksTab": "ModPack Блоки",
+  "itemGroup.modpack_crystalsTab": "ModPack Кристалы",
+
+  "__comment": "Tooltips",
+  "tooltip.modpack.orb_of_temporary_flight": "Удерживайте §eSHIFT§r длябольшей информации",
+  "tooltip.modpack.orb_of_temporary_flight_shift": "Наделяет игрока полётом на 2 минуты"
+}

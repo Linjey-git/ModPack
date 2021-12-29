@@ -1,0 +1,18 @@
+{
+  "type": "modpack:lightning_infusion",
+  "weather": "thundering",
+  "ingredients": [
+    {
+      "item": "modpack:twilight_cain_blade"
+    },
+    {
+      "item": "modpack:twilight_cain_handle"
+    },
+    {
+      "item": "modpack:fire_crystal"
+    }
+  ],
+  "output": {
+    "item": "modpack:twilight_cain"
+  }
+}

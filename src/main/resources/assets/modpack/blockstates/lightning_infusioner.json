@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "modpack:block/lightning_infusioner"
+    },
+    "facing=south": {
+      "model": "modpack:block/lightning_infusioner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "modpack:block/lightning_infusioner",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "modpack:block/lightning_infusioner",
+      "y": 90
+    }
+  }
+}
